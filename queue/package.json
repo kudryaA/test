@@ -1,0 +1,17 @@
+{
+  "name": "video_queue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index"
+  },
+  "keywords": [],
+  "author": "Anton Kudryavtsev",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.783.0",
+    "database-client": "...",
+    "utills": "..."
+  }
+}
